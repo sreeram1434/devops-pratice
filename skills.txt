@@ -1,2 +1,4 @@
 Jenkins
 Git 
+Ansible
+Docker
